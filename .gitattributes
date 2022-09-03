@@ -44,6 +44,9 @@
 *.bf linguist-detectable=true
 *.bf linguist-documentation=false
 *.bf linguist-language=Brainfuck
+*.b linguist-detectable=true
+*.b linguist-documentation=false
+*.b linguist-language=Brainfuck
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -178,6 +181,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Friday, September 2nd at 2:17 pm PST)
-# Line count (including blank lines and compiler line): 184
+# File version: 6 (2022, Friday, September 2nd at 5:26 pm PST)
+# Line count (including blank lines and compiler line): 187
 # End of script
